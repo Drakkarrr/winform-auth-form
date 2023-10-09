@@ -1,0 +1,16 @@
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\bin\Debug\net6.0-windows\auth-form.exe
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\bin\Debug\net6.0-windows\auth-form.deps.json
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\bin\Debug\net6.0-windows\auth-form.runtimeconfig.json
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\bin\Debug\net6.0-windows\auth-form.dll
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\bin\Debug\net6.0-windows\auth-form.pdb
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth_form.Form1.resources
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth-form.csproj.GenerateResource.cache
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth-form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth-form.AssemblyInfoInputs.cache
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth-form.AssemblyInfo.cs
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth-form.csproj.CoreCompileInputs.cache
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth-form.dll
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\refint\auth-form.dll
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth-form.pdb
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\auth-form.genruntimeconfig.cache
+C:\Users\drakk\OneDrive\Desktop\dev-folder\projects\auth-form\auth-form\obj\Debug\net6.0-windows\ref\auth-form.dll
